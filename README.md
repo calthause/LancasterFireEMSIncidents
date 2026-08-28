@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="IMG_4162" src="https://github.com/user-attachments/assets/6ea90578-8e6a-4be9-a1ca-517348c37d1b" />
 # Fire & EMS Incidents
 
 A minimal PlatformIO project for ESP32 with CYD display.
