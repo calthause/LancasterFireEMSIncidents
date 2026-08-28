@@ -2,6 +2,16 @@
 
 A minimal PlatformIO project for ESP32 with CYD display.
 
+## Screenshots
+
+Drop image files into `images/` and reference them here, e.g.:
+
+```markdown
+![Dashboard](images/dashboard.jpg)
+![Unit Info popup](images/unit-info-popup.jpg)
+![Incident map popup](images/county-map-popup.jpg)
+```
+
 ## Build & Upload
 
 - **Build**: `pio run -e esp32dev`
