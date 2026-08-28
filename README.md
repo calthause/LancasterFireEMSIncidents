@@ -1,7 +1,12 @@
 
 # Lancaster Fire & EMS Incidents
-<img width="640" height="480" alt="IMG_4162" src="https://github.com/user-attachments/assets/6ea90578-8e6a-4be9-a1ca-517348c37d1b" />
-A minimal PlatformIO project for ESP32 with CYD display.
+
+<img width="640" height="480" alt="IMG_4164" src="https://github.com/user-attachments/assets/b8c6feb3-7d19-4d9b-9d45-e3195cc02e6d" />
+
+<img width="640" height="480" alt="IMG_4170" src="https://github.com/user-attachments/assets/6c2a38f0-27ab-4c0e-8311-8f8af1ac9057" />
+
+
+A minimal PlatformIO project for ESP32 with CYD display. ESP32-2432S028 V3 THIS IS THE CYD WITH DUAL USB
 
 ## Screenshots
 
