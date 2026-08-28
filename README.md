@@ -8,6 +8,8 @@
 
 A minimal PlatformIO project for ESP32 with CYD display. ESP32-2432S028 V3 THIS IS THE CYD WITH DUAL USB
 
+https://youtu.be/Ur31IHSylps?is=FMmfNc4_wN-wpvri
+
 ## Screenshots
 
 Drop image files into `images/` and reference them here, e.g.:
